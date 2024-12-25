@@ -1225,6 +1225,17 @@ div#particles-box {
   background: #292929;
 }
 
+.feature-box img {
+  position: absolute; /* Position the image similarly to the icon */
+  left: 0;
+  width: 50px; /* Set the width of the logo */
+  height: 50px; /* Set the height to maintain a square shape */
+  border-radius: 5px; /* Optional: If you want rounded corners */
+  object-fit: contain; /* Ensures image maintains aspect ratio */
+  top: 50%; /* Centers image vertically */
+  transform: translateY(-50%); /* Fine-tune the vertical alignment */
+}
+
 .feature-box h5 {
   color: #292929;
   font-size: 15px;
