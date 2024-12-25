@@ -218,7 +218,7 @@ Copyright (c) 2018 - mital_04
             speed: 200,
             loop:true,
             strings: [
-              'Dreveloper',
+              'Developer',
               'Dreamer',
               'Tech Enthusiast'
             ],
