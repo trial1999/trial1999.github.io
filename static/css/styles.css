@@ -1814,7 +1814,7 @@ div#particles-box {
     display: flex;
     align-items: center;
     justify-content: center;
-    text-align: center;
+    text-align: left;
 }
 
 .section-title {
@@ -1831,6 +1831,7 @@ div#particles-box {
     background-color: #fff;  /* White background to make awards stand out */
     border-radius: 10px;  /* Optional: Add border radius for rounded corners */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    text-align: left; 
 }
 /*-----------------------------------------
 *  Blog
