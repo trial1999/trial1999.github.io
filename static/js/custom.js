@@ -219,8 +219,9 @@ Copyright (c) 2018 - mital_04
             loop:true,
             strings: [
               'Developer',
+              'Change Maker',
               'Dreamer',
-              'Tech Enthusiast'
+              'Tech Enthusiast',
             ],
             breakLines: false
         }); 
